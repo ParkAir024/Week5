@@ -13,7 +13,19 @@ games = {
     '1': {
         'title' : 'Halo MCC',
         'system' : 'Xbox One',
-        'release date' : '2019',
+        'release year' : '2019',
+        'user_id': '1'
+    },
+    '1': {
+        'title' : 'Skyrim',
+        'system' : 'PC',
+        'release year' : '2011',
+        'user_id': '1'
+    },
+    '1': {
+        'title' : '7 Days to Die',
+        'system' : 'PC',
+        'release year' : '2013',
         'user_id': '1'
     }
 }
